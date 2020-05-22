@@ -1,0 +1,77 @@
+
+2019-04-25 18:33('172.22.2.235', 57803)joined:-user login-robbie screenname-rob
+
+2019-04-25 18:33('172.22.2.235', 57804)joined:-user login-admin screenname-admin
+
+2019-04-25 18:36('172.22.2.235', 57818)joined:-user login-frank screenname-frank
+
+2019-04-25 18:47('172.22.2.235', 57877)joined:-user login-admin screenname-admin
+
+2019-04-25 21:41('192.168.0.14', 60383)joined:-user login-admin screenname-admin
+
+2019-04-25 21:41('192.168.0.14', 60384)joined:-user login-admin screenname-ad
+
+2019-04-25 22:00('192.168.0.14', 60628)joined:-user login-frank screenname-frank
+
+2019-04-25 22:00('192.168.0.14', 60630)joined:-user login-robbie screenname-rob
+
+2019-04-25 22:04('192.168.0.14', 60684)joined:-user login-francesca screenname-fran
+
+2019-04-25 22:04('192.168.0.14', 60686)joined:-user login-elliot screenname-elliot
+
+2019-04-25 22:06('192.168.0.14', 60703)joined:-user login-elliot screenname-elliot
+
+2019-04-25 22:08('192.168.0.14', 60738)joined:-user login-grant33 screenname-grant
+
+2019-04-28 15:21('192.168.0.14', 49412)joined:-user login-joe screenname-joe
+
+2019-04-28 15:41('192.168.0.14', 49625)joined:-user login-admin screenname-as
+
+2019-04-28 15:41('192.168.0.14', 49629)joined:-user login-admin screenname-
+
+2019-04-28 15:42('192.168.0.14', 49633)joined:-user login-admin screenname-
+
+2019-04-28 15:42('192.168.0.14', 49648)joined:-user login-admin screenname-
+
+2019-04-28 15:43('192.168.0.14', 49656)joined:-user login-admin screenname-
+
+2019-04-28 15:44('192.168.0.14', 49675)joined:-user login-admin screenname-
+
+2019-04-28 15:44('192.168.0.14', 49679)joined:-user login-admin screenname-admin
+
+2019-04-28 15:45('192.168.0.14', 49695)joined:-user login-joe screenname-joe
+
+2019-04-28 16:17('192.168.0.14', 50271)joined:-user login-john screenname-john
+
+2019-04-28 16:38('192.168.0.14', 49462)joined:-user login-admin screenname-ad
+
+2019-04-28 16:47('192.168.0.14', 49560)joined:-user login-john screenname-john
+
+2019-04-28 16:52('192.168.0.14', 49605)joined:-user login-admin screenname-addy
+
+2019-04-28 17:40('192.168.0.14', 49808)joined: screenname-
+
+2019-04-28 17:41('192.168.0.14', 49811)joined:
+2019-04-28 17:42('192.168.0.14', 49829)joined: screenname-
+
+2019-04-28 17:43('192.168.0.14', 49837)joined: screenname-
+
+2019-04-28 17:45('192.168.0.14', 49845)joined: screenname-gully
+
+2019-04-28 17:47('192.168.0.14', 49852)joined:
+2019-04-28 17:47('192.168.0.14', 49853)joined:
+2019-04-28 18:19('192.168.0.14', 50060)joined:-user login-admin screenname-admin
+
+2019-04-28 18:38('192.168.0.14', 50204)joined:-user login-admin screenname-admin
+
+2019-04-28 18:41('192.168.0.14', 50214)joined:-user login-admin screenname-admin
+
+2019-04-28 18:49('192.168.0.14', 50303)joined:-user login-admin screenname-admin
+
+2019-04-28 18:58('192.168.0.14', 50366)joined:
+2019-04-28 18:58('192.168.0.14', 50367)joined:
+2019-04-28 18:59('192.168.0.14', 50370)joined:-user login-admin screenname-admin
+
+2019-04-28 19:01('192.168.0.14', 50382)joined:-user login-admin screenname-add
+
+2019-04-28 19:22('192.168.0.14', 50941)joined:-user login-admin screenname-admin
